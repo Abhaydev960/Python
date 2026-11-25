@@ -63,34 +63,6 @@ Through these programs, I have practiced:
 
 Most programs use Python's built-in standard library, so no additional package installation is required.
 
-## How to Run
-
-**1. Clone the repository**
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd YOUR_REPOSITORY_NAME
-```
-
-**3. Run any Python program**
-
-```bash
-python filename.py
-```
-
-Replace `filename.py` with the name of the Python file you want to execute.
-
-**Note:** 
-- Python 3 should be installed on your system.
-- The Flesch Readability program requires a text file as input.
-- The Turtle and Tkinter programs require a graphical environment.
-- For the chat room program, run the server and client in separate terminals on the same machine.
-
 ## Purpose of This Repository
 
 This repository represents my practical learning experience with Python. Each program focuses on a different programming concept and helps me understand how Python can be used to solve problems and build small applications.
